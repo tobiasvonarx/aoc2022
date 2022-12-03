@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+YEAR="2022"
+DAY="${1}"
+source session_id
+PUZZLE_URL="https://adventofcode.com/${YEAR}/day/${DAY}/input"
+PUZZLE_FILE="input.txt"
+curl -A "tobiasvonarx via cURL" "${PUZZLE_URL}" -H "cookie: session=${COOKIE}" -o "${PUZZLE_FILE}" 2>/dev/null

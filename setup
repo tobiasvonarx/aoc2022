@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+DAY="${1}"
+INPUT="template.go"
+OUTPUT="${DAY}.go"
+cp "${INPUT}" "${OUTPUT}"
