@@ -1,2 +1,6 @@
+github.com/Knetic/govaluate v3.0.0+incompatible h1:7o6+MAPhYTCF0+fdvoz1xDedhRb4f6s9Tn1Tt7/WTEg=
+github.com/Knetic/govaluate v3.0.0+incompatible/go.mod h1:r7JcOSlj0wfOMncg0iLm8Leh48TZaKVeNIfJntJ2wa0=
 github.com/echojc/aocutil v0.0.0-20211125040159-e71bcb34f68f h1:IVbDKHoZJYB6lLU18+5ZsHPeTzr4AmrJMrGd7y8FogY=
 github.com/echojc/aocutil v0.0.0-20211125040159-e71bcb34f68f/go.mod h1:rNP1uUTizLNEwInSxs+oNsw+yBfHNhUg9y+kCI15MjQ=
+golang.org/x/text v0.5.0 h1:OLmvp0KP+FVG99Ct/qFiL/Fhk4zp4QQnZ7b2U+5piUM=
+golang.org/x/text v0.5.0/go.mod h1:mrYo+phRRbMaCq/xk9113O4dZlRixOauAjOtrjsXDZ8=
